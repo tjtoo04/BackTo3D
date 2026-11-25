@@ -6,8 +6,6 @@ Pygame Zero.
 A 3D hero falls into a hand-drawn 2D world. He must fight through five rooms and
 leave through the door at the end.
 
-![the hero and the boss](sprites/uniform/main_character/idle_1.png)
-
 ## Libraries
 
 The game imports only these:
